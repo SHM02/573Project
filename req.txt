@@ -1,0 +1,15 @@
+conda==4.6.12
+libiconv==1.15
+psutil==5.6.1
+traitlets==4.3.2
+pandas==0.24.2
+keras==2.2.4
+tensorflow==1.13.1
+numpy==1.16.2
+pytables==3.5.1
+bottleneck==1.2.1
+numba==0.43.1
+numexpr==2.6.9
+scikit-image==0.14.2
+scikit-learn==0.20.3
+
